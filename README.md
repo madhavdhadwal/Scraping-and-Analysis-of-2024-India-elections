@@ -14,7 +14,7 @@ You will see a list of files in this folder.
 In the "Data Visualization" folder, you will see the Power BI source file "Data Visualizations.pbix" along with the exported PDF of the file. 
 Please note that in order to properly run the Power BI source file, you would need to download the source file and open it using "Power BI Desktop" in your system.
 
-The "Lok_Sabha_elections_2024" folder contains the scrapy source code. It contains all the components of the scrapy i.e Spiders, Pipelines, Middlewares, Engine and Scheduler.
+There is another "Lok_Sabha_elections_2024" folder inside which contains the scrapy source code. It contains all the components of the scrapy i.e Spiders, Pipelines, Middlewares, Engine and Scheduler.
 Click on "spiders" to view all the spiders which I created for web crawling. Every spider web crawls a certain web page. You will find the python code for all the spiders in that folder.
 
 Go to the "Scraped data" folder to find the scraped data in the form of different csv datasets.
